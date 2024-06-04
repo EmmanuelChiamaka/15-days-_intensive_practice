@@ -15,4 +15,3 @@ We have the headings, paragraph, links, images, lists, divisions, and many more.
 DAY 3
 
 # HTML forms and tables.
-
